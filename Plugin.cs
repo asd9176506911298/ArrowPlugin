@@ -11,7 +11,7 @@ namespace ArrowPlugin;
 [BepInPlugin(PLUGIN_GUID, PLUGIN_NAME, PLUGIN_VERSION)]
 public class Plugin : BasePlugin
 {
-    public const string PLUGIN_GUID = "ArrowPlugin";
+    public const string PLUGIN_GUID = "yuki.BepinEx.ArrowPlugin";
     public const string PLUGIN_NAME = "Yuki ArrowPlugin";
     public const string PLUGIN_VERSION = "1.0.0";
 
