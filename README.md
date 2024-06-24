@@ -1,6 +1,11 @@
 # ArrowPlugin
 
 ### Install
+
+https://github.com/BepInEx/BepInEx/releases/tag/v6.0.0-pre.1
+
+BepInEx_UnityIL2CPP_x64_6.0.0-pre.1.zip
+
 put ArrowPlugin.dll into `BepInEx\plugins\`
 ### Install Problem
 If not work maybe path with chinses character 
